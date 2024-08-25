@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Github\\NextJS\\First-Project\\API_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70F85810-558B-4EC3-8E03-3E5DB97565AD}|API_Project\\API_Project.csproj|e:\\github\\nextjs\\first-project\\api_project\\api_project\\controllers\\testapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70F85810-558B-4EC3-8E03-3E5DB97565AD}|API_Project\\API_Project.csproj|solutionrelative:api_project\\controllers\\testapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70F85810-558B-4EC3-8E03-3E5DB97565AD}|API_Project\\API_Project.csproj|e:\\github\\nextjs\\first-project\\api_project\\api_project\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70F85810-558B-4EC3-8E03-3E5DB97565AD}|API_Project\\API_Project.csproj|solutionrelative:api_project\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70F85810-558B-4EC3-8E03-3E5DB97565AD}|API_Project\\API_Project.csproj|e:\\github\\nextjs\\first-project\\api_project\\api_project\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70F85810-558B-4EC3-8E03-3E5DB97565AD}|API_Project\\API_Project.csproj|solutionrelative:api_project\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestAPIController.cs",
+              "DocumentMoniker": "E:\\Github\\NextJS\\First-Project\\API_Project\\API_Project\\Controllers\\TestAPIController.cs",
+              "RelativeDocumentMoniker": "API_Project\\Controllers\\TestAPIController.cs",
+              "ToolTip": "E:\\Github\\NextJS\\First-Project\\API_Project\\API_Project\\Controllers\\TestAPIController.cs",
+              "RelativeToolTip": "API_Project\\Controllers\\TestAPIController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T15:32:55.306Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Github\\NextJS\\First-Project\\API_Project\\API_Project\\Models\\User.cs",
+              "RelativeDocumentMoniker": "API_Project\\Models\\User.cs",
+              "ToolTip": "E:\\Github\\NextJS\\First-Project\\API_Project\\API_Project\\Models\\User.cs",
+              "RelativeToolTip": "API_Project\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T18:43:20.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "E:\\Github\\NextJS\\First-Project\\API_Project\\API_Project\\Startup.cs",
+              "RelativeDocumentMoniker": "API_Project\\Startup.cs",
+              "ToolTip": "E:\\Github\\NextJS\\First-Project\\API_Project\\API_Project\\Startup.cs",
+              "RelativeToolTip": "API_Project\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T18:05:56.328Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
