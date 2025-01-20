@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Github\\NextJS\\First-Project\\API_Project\\API_Project\\API_Project.csproj",
+      "projectUniqueName": "E:\\Github\\NextJS\\tutorial\\nextjstutorial\\API_Project\\API_Project\\API_Project.csproj",
       "projectName": "API_Project",
-      "projectPath": "E:\\Github\\NextJS\\First-Project\\API_Project\\API_Project\\API_Project.csproj",
+      "projectPath": "E:\\Github\\NextJS\\tutorial\\nextjstutorial\\API_Project\\API_Project\\API_Project.csproj",
       "packagesPath": "C:\\Users\\sma-J\\.nuget\\packages\\",
-      "outputPath": "E:\\Github\\NextJS\\First-Project\\API_Project\\API_Project\\obj\\",
+      "outputPath": "E:\\Github\\NextJS\\tutorial\\nextjstutorial\\API_Project\\API_Project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sma-J\\AppData\\Roaming\\NuGet\\NuGet.Config",

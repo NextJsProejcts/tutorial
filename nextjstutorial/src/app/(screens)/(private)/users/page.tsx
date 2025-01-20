@@ -1,7 +1,6 @@
 // 'use client';
 
 import UsersList from "./components/list/users-list";
-
 const Users = () => {
 
   return(
